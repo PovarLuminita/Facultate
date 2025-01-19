@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1724605321 source:c:\users\luminita povar\desktop\udemy c\ex eu\projectgeometry\main.c
+	<stdio.h>
+	<stdlib.h>
+	"point.h"
+	"rectangle.h"
+
+1724605306 c:\users\luminita povar\desktop\udemy c\ex eu\projectgeometry\point.h
+
+1724605440 source:c:\users\luminita povar\desktop\udemy c\ex eu\projectgeometry\point.c
+	<stdio.h>
+	<stdlib.h>
+	"point.h"
+	<math.h>
+
+1724343939 source:c:\users\luminita povar\desktop\udemy c\ex eu\projectgeometry\rectangle.c
+	"rectangle.h"
+	<stdio.h>
+	<stdlib.h>
+
+1724343534 c:\users\luminita povar\desktop\udemy c\ex eu\projectgeometry\rectangle.h
+	"point.h"
+

@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1725037807 source:c:\users\luminita povar\desktop\udemy c\ex eu\studentsproj\studentsproj\grade.c
+	<stdio.h>
+	<stdlib.h>
+	"grade.h"
+
+1725038266 source:c:\users\luminita povar\desktop\udemy c\ex eu\studentsproj\studentsproj\main.c
+	<stdio.h>
+	<stdlib.h>
+	"grade.h"
+	"student.h"
+
+1725038413 source:c:\users\luminita povar\desktop\udemy c\ex eu\studentsproj\studentsproj\student.c
+	<stdio.h>
+	<stdlib.h>
+	"student.h"
+
+1725038720 c:\users\luminita povar\desktop\udemy c\ex eu\studentsproj\studentsproj\student.h
+	"grade.h"
+
+1724741472 c:\users\luminita povar\desktop\udemy c\ex eu\studentsproj\studentsproj\grade.h
+
+1725037807 source:c:\users\luminita povar\desktop\proiecte\personale\studentsproj\studentsproj\grade.c
+	<stdio.h>
+	<stdlib.h>
+	"grade.h"
+
+1726510258 c:\users\luminita povar\desktop\proiecte\personale\studentsproj\studentsproj\grade.h
+
+1725038413 source:c:\users\luminita povar\desktop\proiecte\personale\studentsproj\studentsproj\student.c
+	<stdio.h>
+	<stdlib.h>
+	"student.h"
+
+1726510415 c:\users\luminita povar\desktop\proiecte\personale\studentsproj\studentsproj\student.h
+	"grade.h"
+

@@ -1,0 +1,74 @@
+<mxfile host="app.diagrams.net" modified="2023-11-13T19:29:18.322Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ZFTEI6WR8r3u1RAt-kX3" version="22.1.0" type="device">
+  <diagram name="Pagina-1" id="GsTPFWDf9DPP768K00pT">
+    <mxGraphModel dx="2312" dy="1068" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="V2GzTK4w62Hm9S23kZYZ-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="150" width="1420" height="960" as="geometry" />
+        </mxCell>
+        <mxCell id="V2GzTK4w62Hm9S23kZYZ-6" value="&lt;h1&gt;ZIUA DIN SAPTAMANA ( INTERVAL DATA SAPTAMANA )&amp;nbsp;&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="220" width="1040" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="V2GzTK4w62Hm9S23kZYZ-9" value="&lt;h1&gt;MARTI&lt;/h1&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="450" y="340" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="V2GzTK4w62Hm9S23kZYZ-10" value="MIERCURI" style="whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="620" y="340" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="V2GzTK4w62Hm9S23kZYZ-11" value="JOI" style="whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="780" y="340" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="V2GzTK4w62Hm9S23kZYZ-12" value="VINERI" style="whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="930" y="340" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="V2GzTK4w62Hm9S23kZYZ-13" value="SAMBATA" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1080" y="340" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="V2GzTK4w62Hm9S23kZYZ-14" value="&lt;h1 style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;DUMINICA&lt;/font&gt;&lt;/h1&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="340" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="V2GzTK4w62Hm9S23kZYZ-15" value="&lt;h1&gt;LUNI&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/h1&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#735f5e;strokeWidth=5;" vertex="1" parent="1">
+          <mxGeometry x="290" y="340" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="V2GzTK4w62Hm9S23kZYZ-16" value="NUME TASK , TIP DE TASK ( OVERDUE, UPCOMING, ... ) &lt;span style=&quot;white-space: pre; font-size: 13px;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre; font-size: 13px;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre; font-size: 13px;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre; font-size: 13px;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre; font-size: 13px;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre; font-size: 13px;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre; font-size: 13px;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre; font-size: 13px;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre; font-size: 13px;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre; font-size: 13px;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre; font-size: 13px;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre; font-size: 13px;&quot;&gt;&#x9;&lt;/span&gt;STERGE TASK, MODIFICA TASK," style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="290" y="470" width="1056" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="V2GzTK4w62Hm9S23kZYZ-22" value="NUME TASK , TIP DE TASK ( OVERDUE, UPCOMING, ... ) &lt;span style=&quot;white-space: pre; font-size: 13px;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre; font-size: 13px;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre; font-size: 13px;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre; font-size: 13px;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre; font-size: 13px;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre; font-size: 13px;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre; font-size: 13px;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre; font-size: 13px;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre; font-size: 13px;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre; font-size: 13px;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre; font-size: 13px;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre; font-size: 13px;&quot;&gt;&#x9;&lt;/span&gt;STERGE TASK, MODIFICA TASK" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="290" y="585" width="1056" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="V2GzTK4w62Hm9S23kZYZ-23" value="NUME TASK , TIP DE TASK ( OVERDUE, UPCOMING, ... ) &lt;span style=&quot;white-space: pre; font-size: 13px;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre; font-size: 13px;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre; font-size: 13px;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre; font-size: 13px;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre; font-size: 13px;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre; font-size: 13px;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre; font-size: 13px;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre; font-size: 13px;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre; font-size: 13px;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre; font-size: 13px;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre; font-size: 13px;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre; font-size: 13px;&quot;&gt;&#x9;&lt;/span&gt;STERGE TASK, MODIFICA TASK" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="290" y="690" width="1056" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="V2GzTK4w62Hm9S23kZYZ-24" value="NUME TASK , TIP DE TASK ( OVERDUE, UPCOMING, ... ) &lt;span style=&quot;white-space: pre; font-size: 13px;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre; font-size: 13px;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre; font-size: 13px;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre; font-size: 13px;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre; font-size: 13px;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre; font-size: 13px;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre; font-size: 13px;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre; font-size: 13px;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre; font-size: 13px;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre; font-size: 13px;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre; font-size: 13px;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre; font-size: 13px;&quot;&gt;&#x9;&lt;/span&gt;STERGE TASK, MODIFICA TASK" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="290" y="800" width="1056" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="V2GzTK4w62Hm9S23kZYZ-26" value="APASA SA ADAUGI TASK NOU !!!&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="292" y="920" width="1056" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="V2GzTK4w62Hm9S23kZYZ-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="235" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="V2GzTK4w62Hm9S23kZYZ-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="235" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="V2GzTK4w62Hm9S23kZYZ-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.375;exitY=0.367;exitDx=0;exitDy=0;exitPerimeter=0;shape=flexArrow;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="260.14" as="sourcePoint" />
+            <mxPoint x="320" y="259.82" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="340" y="259.79" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V2GzTK4w62Hm9S23kZYZ-38" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.375;exitY=0.367;exitDx=0;exitDy=0;exitPerimeter=0;shape=flexArrow;strokeColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1260.0000000000002" y="259.93" as="sourcePoint" />
+            <mxPoint x="1300.0000000000002" y="259.79" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
